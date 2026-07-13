@@ -1,5 +1,5 @@
 # 💫 About Me:
-Development and Problem Solving. I enjoy building scalable and user-friendly web applications using the MERN Stack while continuously improving my skills in Data Structures & Algorithms. Currently, I am developing PrimeCode, a coding platform that integrates secure code execution and AI-powered assistance to enhance the programming experience. I am passionate about learning new technologies, contributing to meaningful projects, and writing clean, efficient, and maintainable code. I am always eager to collaborate, learn from the developer community, and grow as a full-stack software engineer.
+I am a B.Tech Information Technology student with a strong interest in Software Development and Problem Solving. I enjoy building scalable and user-friendly web applications using the MERN Stack while continuously improving my skills in Data Structures & Algorithms. Currently, I am developing PrimeCode, a coding platform that integrates secure code execution and AI-powered assistance to enhance the programming experience. I am passionate about learning new technologies, contributing to meaningful projects, and writing clean, efficient, and maintainable code. I am always eager to collaborate, learn from the developer community, and grow as a full-stack software engineer.
 
 
 ## 🌐 Socials:
